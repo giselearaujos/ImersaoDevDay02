@@ -1,0 +1,111 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    overflow: hidden;    
+    background-color: #000000;    
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+
+  .page-title.-subtitle{
+    font-size: 20px;      
+     position: static ;
+     margin-top: 20px;
+     width: 100%;
+
+  }
+
+  .main-linkedin  {
+    text-decoration: none;
+    color: #ffffff;
+    font-size:20px;
+    height: 40px;
+    width: 300px;
+  }
+
+  .main-button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     
+      height:130px;
+      width:100%;     
+  }
+
+  .main-button .btn1 {
+      border: 1px solid #000;
+      box-shadow: 3px 3px 0 #fff;
+      background-color: #ff0000;
+      color:#fff;
+      height:60px;
+      width:100px;
+      margin-right:10px;
+      cursor: pointer;
+  }
+
+  .main-button .btn2 {
+      border: 1px solid #000;
+      box-shadow: 3px 3px 0 #fff;
+      background-color: #379205;
+      color:#fff;
+      height:60px;
+      width:100px;
+      margin-right:10px;
+      cursor: pointer;
+}
+
+.main-button .btn3 {
+    border: 1px solid #000;
+    box-shadow: 3px 3px 0 #fff;
+    background-color: #1715b1;
+    color:#fff;
+    height:60px;
+    width:100px;
+    margin-right:10px;
+    cursor: pointer;
+}
+
+.main-button .btn4 {
+    border: 1px solid #000;
+    box-shadow: 3px 3px 0 #fff;
+    background-color: #424141;
+    color:#fff;
+    height:60px;
+    width:100px;
+    margin-right:10px;
+    cursor: pointer;
+}
+  .main-img .gif {    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:250px;
+    width:400px;  
+    box-shadow: 3px 3px 0 #fff;
+} 
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
