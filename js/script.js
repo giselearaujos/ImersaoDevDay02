@@ -13,5 +13,5 @@ function btn3(){
 }
 
 function btn4(){
-    img.src = "https://media.giphy.com/media/myhb94p7RwksU/giphy.gif";
+    img.src = "https://media.giphy.com/media/ArSKRoxsUf8pa/giphy.gif";
 }
